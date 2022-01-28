@@ -264,10 +264,11 @@ header {
 }
 
 section {
-    margin: 5px 10%;
+    margin: 10px 10%;
     padding: 20px;
     border: 5px solid black;
     overflow: auto;
+    border-radius: 10px;
 }
 
 p {
@@ -292,7 +293,7 @@ h2 {
     border-radius: 5px;
     width: 30%;
     text-align: center;
-    margin: 20px auto;
+    margin: 10px 5px;
     min-height: 100px;
     min-width: 100px;
 }
