@@ -15,8 +15,8 @@ This website was created to practice the html and css concepts learned in Codeca
 
 ### Technologies
 Project is created with:
-* HTML5
-* CSS4
+* HTML 5
+* CSS 3
 
 ### Sources
 This is a project called *Challenge Project: Build a Website Design System* from the Codecademy Full-Stack Engineer career path. The fonts were found on google fonts and the colour scheme was inspired from a colour generator online.
